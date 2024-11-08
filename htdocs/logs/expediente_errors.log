@@ -1,0 +1,1 @@
+[2024-11-07 17:42:54] Error en agregarExpediente.php: Error en la consulta: Cannot add or update a child row: a foreign key constraint fails (`ventas`.`expedientes`, CONSTRAINT `expedientes_ibfk_1` FOREIGN KEY (`id_usuario`) REFERENCES `usuarios` (`id_usuario`) ON DELETE CASCADE)
